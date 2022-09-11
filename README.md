@@ -1,2 +1,2 @@
-# C-culo-da-M-dia---C-
+# Calculo-da-Media---C#
 Calculo da média feito em C#
